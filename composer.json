@@ -1,0 +1,9 @@
+{
+    "name": "kuppel-test",
+    "description": "An api in Slim",
+    "require": {
+        "slim/slim": "^4.5",
+        "mongodb/mongodb": "^1.7",
+        "slim/psr7": "^1.1"
+    }
+}
